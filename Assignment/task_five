@@ -1,0 +1,2 @@
+average =  (int(10+30+20+40+50)/5)
+print(average)
